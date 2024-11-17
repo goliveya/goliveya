@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @goliveya  
+- 👀 I’m interested in Database, HTML, and PHP.  
+- 🌱 I’m currently learning advanced database management and backend development with PHP.  
+- 💞️ I’m looking to collaborate on web development projects or database optimization tasks.  
+- 😄 Pronouns: not specified .  
+- ⚡ Fun fact: I love exploring how databases power dynamic web applications!  
